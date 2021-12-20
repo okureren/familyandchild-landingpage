@@ -1,0 +1,112 @@
+#navbar a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #1c2470;
+  font-family: "Poppins", sans-serif;
+}
+
+#navbar a:hover {
+  color: #ab023e;
+}
+
+.social {
+  width: 282.03px;
+  height: 53.03px;
+  font-size: 16px;
+  background-color: #f3f4f5;
+  border-radius: 5px;
+}
+
+.dotted {
+  margin-top: -250px;
+}
+
+.title-color {
+  color: #18216d;
+}
+
+.fsize-70 {
+  font-size: 70px;
+}
+
+.fsize-36 {
+  font-size: 36px;
+}
+
+.fsize-30 {
+  font-size: 30px;
+}
+
+.fsize-16 {
+  font-size: 16px;
+}
+
+.fsize-14 {
+  font-size: 14px;
+}
+
+.fsize-12 {
+  font-size: 12px;
+}
+
+.color-shiraz {
+  color: #ab023e;
+}
+
+.color-gray {
+  color: #8e8e8e;
+}
+
+.color-lightgray {
+  color: #8d8d8d;
+}
+
+.color-lightray-second {
+  color: #b7b7b7;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.font-amatic {
+  font-family: "Amatic SC", cursive;
+}
+
+.events .swiper-pagination {
+  margin-top: 50px;
+  position: relative;
+}
+
+.events .swiper-pagination .swiper-pagination-bullet {
+  width: 19px;
+  height: 19px;
+  opacity: 1;
+  background-color: #dcdcdc;
+}
+
+.events .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #ab023e;
+}
+
+footer {
+  background: #ffffff;
+  box-shadow: inset 0px 5px 30px rgba(0, 0, 0, 0.15);
+}
+
+footer a:hover {
+  color: #ab023e;
+}
+
+.vertical-line {
+  margin-top: 10px;
+  border-left: 1px solid;
+  height: 70px;
+  color: #e5e5e5;
+}
+
+@media screen and (max-width: 1200px) {
+  .dotted {
+    margin-top: 30px;
+  }
+}
